@@ -2,6 +2,19 @@
 
 <br>
 
+### Getting started
+
+Clone the repository.
+
+Install the packages:
+
+```bash
+npm install
+```
+
+
+<br>
+
 Create a new View file named `About.jsx` used to render the About page:
 
 - Create a new route for `GET` request with the endpoint `/about`:
