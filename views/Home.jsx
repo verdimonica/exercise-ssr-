@@ -6,7 +6,7 @@ function Home () {
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
-        <title> Home </title>
+        <title> Monica Verdi</title>
         <link rel="stylesheet" href="stylesheets/style.css" />
       </head>
       <body>

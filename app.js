@@ -18,16 +18,12 @@ app.engine('jsx',  erv.createEngine() );
 app.use( express.static('public') );
 
 
-// ROUTES
-app.get('/home', (req, res, next) => {
+app.get('/About', (req, res, next) => {
   
-  // res.sendFile(__dirname + '/views/home.html');
 
-  res.render('Home')
+  res.render('About')
 
 })
-
-
 
 // START THE SERVER
 app.listen( 3000, () => {
